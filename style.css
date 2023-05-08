@@ -1,0 +1,52 @@
+body {
+  background-color: #1b1b1b
+}
+
+a {
+  color: white
+}
+
+.search-container {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+form {
+    margin-top: 30px;
+}
+
+label {
+    font-size: 24px;
+}
+
+input[type="text"] {
+    font-size: 20px;
+    padding: 10px;
+    width: 60%;
+}
+
+
+
+#search-results {
+    margin-top: 30px;
+    text-align: left;
+}
+
+.result-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.result-link {
+    font-size: 18px;
+    color: blue;
+}
+
+.result-description {
+    font-size: 16px;
+}
